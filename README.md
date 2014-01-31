@@ -107,7 +107,7 @@ To write beautiful stuff (like this document), use markdown! It really is awesom
 
 For an [amazing cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#wiki-hr)
 
-Incidentally, your can export an md directly into a presentation!
+Incidentally, your can export an md directly into a presentation! For those RStudio users, [checkout this one](http://www.rstudio.com/ide/docs/authoring/using_markdown)
 
 
 
