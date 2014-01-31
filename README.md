@@ -1,7 +1,9 @@
 github_tutorial
 ===============
 
-Mini tutorial enphasizing uses in social sciences.
+Mini tutorial enphasizing uses in multidisciplinary projects! Git/github is not just for coders!
+
+*If you also love git and are trying to get your team to use it, feel free to contribute!
 
 ***
 
