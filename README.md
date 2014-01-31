@@ -98,6 +98,17 @@ $ man git-<verb>
 where <verb> refers to any command you want! (if you know not any command, ask google what you wanna do and start checking out all the possibilities to make your life easier!)
 
 
+***
+What is this weird (but awesome) .md file?
+------------------------------------------
+To write beautiful stuff (like this document), use markdown! It really is awesome.
+
+For an [amazing cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#wiki-hr)
+
+Incidentally, your can export an md directly into a presentation!
+
+
+
 
 
 
