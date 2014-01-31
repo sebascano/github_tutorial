@@ -55,6 +55,33 @@ git pull
 
 Pulling is your way to connect to github. 
 
+Keeping your fork update
+------------------------
+
+```
+  > git remote -v
+```
+This command should show only `origin` pointing to your fork of this tutorial. A `remote` is a relate repository (with 
+shared history) in which you can do `pull` or `push` as you do with your original.
+
+Lets add the remote of this tutorial.
+
+```
+  > git remote add animalito https://github.com/animalito/github_tutorial.git
+```
+
+Execute again `git remote -v` and you will see `2` repos.
+
+To make `pull` to the changes that are in `remote` `animalito` just do
+
+```
+  > git pull animalito master
+```
+
+Note that to `pull` from your `fork`, you still need only do `git pull`.
+
+Si todo sale bien, ahora pueden hacer `push` a su `fork`. Esto mantendrá los cambios sincronizados.
+
 
 
 
