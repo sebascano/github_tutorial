@@ -1,7 +1,7 @@
 github_tutorial
 ===============
 
-Mini tutorial enphasizing uses in multidisciplinary projects! Git/github is not just for coders!
+Mini tutorial enphasizing uses in multidisciplinary projects! Git/github is [not just for coders](http://thepoliticalmethodologist.com/2013/11/18/gitgithub-transparency-and-legitimacy-in-quantitative-research/)!
 
 *If you also love git and are trying to get your team to use it, feel free to contribute!
 
