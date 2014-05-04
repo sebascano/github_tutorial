@@ -58,7 +58,7 @@ git pull
 
 Pulling is your way to connect to github. 
 
-Keeping your fork update
+Keeping your fork up to date
 ------------------------
 
 ```
