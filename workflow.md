@@ -25,9 +25,10 @@ In this part, we will cover this type of workflow using forks.
   ![click on](img/cloneit.jpg)
   
   b. Go to your terminal or git and write (in the folder where you want your repo)
-```git
-git clone http_of_your_fork
-```
+  
+    ```git
+    git clone http_of_your_fork
+    ```
 3. Do 4 and 5 in your local computer.
 4. Add a folder in your fork with your name inside the subdirectory *excercises*
 5. Add a .txt file with "Hello world! -your name- is commiting to working now with github!"
