@@ -33,13 +33,14 @@ In this part, we will cover this type of workflow using forks.
 4. Add a folder in your fork with your name inside the subdirectory *excercises*
 5. Add a .txt file with "Hello world! -your name- is commiting to working now with github!"
 6. Go to your terminal and follow your daily workflow
-```git
-git pull
-git add .
-git status
-git commit -m "I commit to github"
-git push
-```
+
+  ```git
+  git pull
+  git add .
+  git status
+  git commit -m "I commit to github"
+  git push
+  ```
 
 7. See the changes in your github!
 
