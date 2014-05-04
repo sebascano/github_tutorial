@@ -16,9 +16,9 @@ In this part, we will cover this type of workflow using forks.
 
 1. Fork this repo. 
 
-![click it](img/forkbutton.jpg "fork it!")
+  ![click it](img/forkbutton.jpg "fork it!")
 
-2. Clone your fork to your computer your computer
+2. Clone your fork to your computer
 
   a. Copy the address of the repo (your fork) 
 
