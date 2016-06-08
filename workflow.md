@@ -44,19 +44,6 @@ In this part, we will cover this type of workflow using forks.
 
 7. See the changes in your github!
 
-Basic commands
---------------
-
-```git
-git status
-```
-Status allows you to view what you have in your local machine, what is in the cloud, etc.
-
-```git
-git pull
-```
-
-Pulling is your way to connect to github. 
 
 Keeping your fork up to date
 ------------------------
